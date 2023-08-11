@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  /* background-image: url(https://wallpaperaccess.com/full/1489195.jpg); */
+  /* background-size: cover; */
+  height: 625px;
+}
+.main {
+  display: flex;
+  height: 625px;
+  width: 84rem;
+  /* background-color: blueviolet; */
+}
+.sidenav {
+  display: flex;
+  width: 244px;
+  height: 625px;
+  /* background-color: red; */
+}
+.body {
+  display: flex;
+  background-color: blanchedalmond;
+  width: 1122px;
+  height: 625px;
+}
